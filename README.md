@@ -14,4 +14,6 @@ Inputs to the program :
 
 5.) target_return_arr : an array of all the target return on which you want to optimize. You can use numpy arange to choose an array between two poits.
 
-After the input is fed, it calculated the drawa the EFFICIENT FRONTIER.
+After the input is fed, it calculated the drawa the EFFICIENT FRONTIER. 
+
+References -> Efficient frontier, J.Li
